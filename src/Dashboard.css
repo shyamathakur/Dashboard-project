@@ -1,0 +1,230 @@
+form.ant-form.ant-form-horizontal.css-dev-only-do-not-override-pr0fja.d-flex {
+  display: flex;
+  width: 45%;
+  font-family: monospace;
+}
+
+:where(.css-dev-only-do-not-override-pr0fja).ant-layout-header {
+  height: 80px;
+  padding: 0 50px;
+  color: rgba(0, 0, 0, 0.88);
+  line-height: 64px;
+  font-family: monospace;
+  background: #001529;
+}
+header.ant-layout-header.css-dev-only-do-not-override-pr0fja {
+  padding: 0px 10px;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  background: #ffffff;
+  font-family: monospace;
+}
+
+.anticon svg {
+  display: inline-block;
+  font-size: 20px;
+  font-family: monospace;
+}
+
+.icon-div {
+  gap: 15px;
+  display: flex;
+  font-family: monospace;
+}
+
+:where(.css-dev-only-do-not-override-pr0fja).ant-btn-primary {
+  color: black;
+  display: flex;
+  margin-left: 10px;
+  align-items: center;
+  font-family: monospace;
+  padding: 20px 20px;
+  background-color: #1c64b0;
+  box-shadow: 0 2px 0 rgba(5, 145, 255, 0.1);
+}
+:where(.css-dev-only-do-not-override-pr0fja).ant-layout .ant-layout-sider {
+  position: relative;
+  min-width: 0;
+  background-color: #f2f2f2;
+  font-family: monospace;
+  transition: all 0.2s, background 0s;
+}
+
+ul.ant-menu.ant-menu-root.ant-menu-inline.ant-menu-dark.css-dev-only-do-not-override-pr0fja {
+  background-color: #f2f2f2;
+  font-family: monospace;
+}
+
+li.ant-menu-item.ant-menu-item-active.ant-menu-item-selected {
+  /* background: #fafafa; */
+  background-color: #f2f2f2;
+  font-family: monospace;
+}
+
+li.ant-menu-item.ant-menu-item-selected {
+  /* background: #fafafa; */
+  background-color: #f2f2f2;
+  font-family: monospace;
+}
+
+ul.ant-menu.ant-menu-root.ant-menu-vertical.ant-menu-dark.ant-menu-inline-collapsed.css-dev-only-do-not-override-pr0fja {
+  /* background: #fafafa; */
+  background-color: #f2f2f2;
+  font-family: monospace;
+}
+
+:where(.css-dev-only-do-not-override-pr0fja).ant-layout
+  .ant-layout-sider-children {
+  height: 99vh;
+  margin-top: -0.1px;
+  font-family: monospace;
+  padding-top: 0.1px;
+}
+
+.ant-layout.css-dev-only-do-not-override-pr0fja {
+  background-color: #fafafa;
+  font-family: monospace;
+}
+
+:where(.css-dev-only-do-not-override-pr0fja).ant-progress-line {
+  width: 100%;
+  font-size: 14px;
+  font-family: monospace;
+}
+
+span.ant-menu-title-content {
+  color: #445d77;
+  font-family: monospace;
+}
+span.anticon.anticon-user.ant-menu-item-icon {
+  color: #1c64b0;
+  font-family: monospace;
+}
+
+svg {
+  color: #445d77;
+  font-size: 20px;
+  font-family: monospace;
+}
+svg.ant-menu-item-icon {
+  color: #1c64b0;
+  font-family: monospace;
+}
+
+.heptagon {
+  width: 35px;
+  height: 35px;
+  background-color: #1c64b0;
+  font-family: monospace;
+  position: relative;
+  clip-path: polygon(
+    50% 0%,
+    86.6% 25%,
+    100% 71.2%,
+    50% 100%,
+    0% 71.2%,
+    13.4% 25%
+  );
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.button {
+  font-family: monospace;
+  background-color: #f5fafb;
+}
+
+.svg-icon-user {
+  color: #fff;
+  font-family: monospace;
+  font-size: 20px;
+}
+
+.svg-icon-user-div {
+  background-color: rgb(120, 106, 222);
+  width: 30px;
+  height: 30px;
+  font-family: monospace;
+  justify-content: center;
+  border-radius: 20px;
+  display: flex;
+  color: rgb(255, 255, 255);
+  align-items: center;
+}
+
+.button-icon-arrow {
+  font-family: monospace;
+  color: "#fff";
+}
+
+.div-button-icon {
+  display: flex;
+  font-family: monospace;
+  align-items: center;
+  justify-content: center;
+}
+
+.customers {
+  border: 1px solid #1c64b0;
+  font-family: Arial, Helvetica, sans-serif;
+  border-collapse: collapse;
+  width: 100%;
+}
+
+.customers td {
+  /* border: 1px solid #ddd; */
+  font-family: monospace;
+  padding: 8px;
+  text-align: center;
+}
+.customers th {
+  border: 1px solid #ddd;
+  font-family: monospace;
+  padding: 8px;
+  text-align: center;
+}
+
+.customers tr:hover {
+  background-color: #ddd;
+  font-family: monospace;
+}
+
+.customers th {
+  padding-top: 12px;
+  padding-bottom: 12px;
+  text-align: center;
+  background-color: #1b64b3;
+  color: white;
+  font-weight: 500;
+  font-family: monospace;
+}
+
+.selector-dropdown {
+  border-color: #1c64b0;
+  padding: 10px 3px;
+  background-color: #f1f1f1;
+  padding-right: initial;
+  color: #333;
+  position: relative;
+  display: flex;
+  margin: 1px auto;
+  font-family: monospace;
+}
+
+.selector-dropdown::after {
+  background-color: #1c64b0;
+  color: #1c64b0;
+  pointer-events: none;
+  display: flex;
+  align-items: center;
+  text-align: center;
+  margin: 1px auto;
+  font-family: monospace;
+  width: 1.5em;
+}
+
+.select-down {
+  color: black;
+}
